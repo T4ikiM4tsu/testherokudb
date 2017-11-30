@@ -53,4 +53,5 @@ source 'https://rubygems.org'
   
   gem "daemons"
   
-  gem "ruby", "2.3.0"
+  ruby "2.3.0"
+  
