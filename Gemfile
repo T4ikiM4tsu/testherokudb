@@ -52,6 +52,7 @@ source 'https://rubygems.org'
   gem 'delayed_job_active_record'
   
   gem "daemons"
+  gem 'rails_12factor', group: :production
   
   ruby "2.3.0"
   
