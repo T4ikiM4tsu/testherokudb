@@ -25,8 +25,6 @@ source 'https://rubygems.org'
   # hirbの出力を日本語に対応させるgem
   gem 'hirb-unicode'
   
-  
-
   gem 'ransack'
   
   gem 'momentjs-rails', '>= 2.9.0'
@@ -52,4 +50,7 @@ source 'https://rubygems.org'
   gem 'roo'
   
   gem 'delayed_job_active_record'
+  
   gem "daemons"
+  
+  gem "ruby", "2.3.0"
